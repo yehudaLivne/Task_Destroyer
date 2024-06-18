@@ -21,7 +21,7 @@ Task Destroyer is an application to manage and gamify your tasks. It helps you s
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/task-destroyer.git
+   git clone https://github.com/yehudaLivne/Task_Destroyer.git
    cd task-destroyer
 
 2. **Install the required Python packages**:
@@ -29,6 +29,8 @@ Task Destroyer is an application to manage and gamify your tasks. It helps you s
    pip install PyQt5 pygame
 
 4. Place the sound files (add_task.wav, complete_task.wav, tick.wav) in the same directory as the script.
+
+
 ## Usage
 1. Run the application:
    ```sh
@@ -45,7 +47,4 @@ Task Destroyer is an application to manage and gamify your tasks. It helps you s
 6. Reorder Tasks: Drag and drop tasks in the list to reorder them.
 
 
-### Notes:
-- Replace `https://github.com/yourusername/task-destroyer.git` with the actual URL of your GitHub repository.
-- Add a `screenshot.png` file in the same directory to include a screenshot of the application in the README.
-- Update the `LICENSE` section with the actual license you choose for your project.
+
