@@ -46,5 +46,22 @@ Task Destroyer is an application to manage and gamify your tasks. It helps you s
 
 6. Reorder Tasks: Drag and drop tasks in the list to reorder them.
 
+## Screenshots
 
+
+## License
+This project is licensed under the GPL License. See the LICENSE file for details.
+
+
+## Acknowledgments
+PyQt5
+pygame
+
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
+
+
+## Contact
+For any questions or suggestions, please open an issue on GitHub.
 
