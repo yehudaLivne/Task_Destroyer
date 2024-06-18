@@ -24,14 +24,17 @@ Task Destroyer is an application to manage and gamify your tasks. It helps you s
    git clone https://github.com/yourusername/task-destroyer.git
    cd task-destroyer
 
-2. Install the required Python packages:
+2. **Install the required Python packages**:
+   ```sh
    pip install PyQt5 pygame
-3. Place the sound files (add_task.wav, complete_task.wav, tick.wav) in the same directory as the script.
+
+4. Place the sound files (add_task.wav, complete_task.wav, tick.wav) in the same directory as the script.
 ## Usage
 1. Run the application:
-python task_destroyer.py
+   ```sh
+   python task_destroyer.py
 
-2.Add Task: Click the "Add Task" button, fill in the details, and click "OK".
+2. Add Task: Click the "Add Task" button, fill in the details, and click "OK".
 
 3. Edit Task: Select a task by its index, click the "Edit Task" button, update the details, and click "OK".
 
